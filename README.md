@@ -24,9 +24,13 @@ We can create , read, update , delete the tasks(perform the crud operations)
 
 Flutter ToDo App
 Step 1 - Creating a new Flutter project
+
 Step 2 - Installing Flutter plugin for Parse Server
+
 Step 3 - Setting up Parse SDK
   Initialize your Parse app
+  
 To allow the application to securely connect to the Back4App servers, you must provide the Parse SDK with the application credentials.
+
 Step 4 : Start with Building the application logic
 https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud 
