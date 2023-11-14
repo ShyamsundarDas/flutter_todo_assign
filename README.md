@@ -16,7 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 The flutter app looks like this with all the tasks display.
-![image](https://github.com/ShyamsundarDas/flutter_todo_assign/assets/34059890/32125fe1-061d-4e20-a50e-a7228967ae8e)
+![image](https://github.com/ShyamsundarDas/flutter_todo_assign/assets/34059890/02dc329d-756d-4791-8f35-f589d5de341c)
+
 
 We can create , read, update , delete the tasks(perform the crud operations)
 ![image](https://github.com/ShyamsundarDas/flutter_todo_assign/assets/34059890/39f78ba1-0b2d-4b05-8d31-dd6e653f58c1)
