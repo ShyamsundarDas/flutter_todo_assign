@@ -29,7 +29,7 @@ The Back4App is a BAAS(Backend as a Service platform
 
 
 
-**Flutter ToDo App**
+**Flutter ToDo App steps**
 
 Step 1 - 
 Creating a new Flutter project
@@ -42,8 +42,9 @@ Setting up Parse SDK
   Initialize your Parse app
   
 To allow the application to securely connect to the Back4App servers, you must provide the Parse SDK with the application credentials.
+
 https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk
-Step 4 : 
-Start with Building the application logic
+
+Step 4 : Start with Building the application logic
 
 https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud 
