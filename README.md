@@ -16,10 +16,14 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 The flutter app looks like this with all the tasks display.
+
+1. Adding tasks
 ![image](https://github.com/ShyamsundarDas/flutter_todo_assign/assets/34059890/02dc329d-756d-4791-8f35-f589d5de341c)
 
+2. Updating tasks
+![image](https://github.com/ShyamsundarDas/flutter_todo_assign/assets/34059890/2c7da719-4b6b-4103-84df-e08f1dd87926)
 
-We can create , read, update , delete the tasks(perform the crud operations)
+3. We can create , read, update , delete the tasks(perform the crud operations)
 The Back4App is a BAAS(Backend as a Service platform
 ![image](https://github.com/ShyamsundarDas/flutter_todo_assign/assets/34059890/b0a3dfd1-c76c-4cab-8795-284e9e481c81)
 
